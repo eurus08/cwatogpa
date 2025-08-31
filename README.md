@@ -1,2 +1,2 @@
 # cwatogpa
-Convert from CWA (KNUST grading system) to GPA (US grading system)
+Convert CWA (KNUST grading system) to GPA (US grading system)
